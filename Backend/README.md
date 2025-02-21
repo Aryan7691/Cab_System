@@ -41,8 +41,6 @@ Authenticates a user using their email and password, returning a JWT token upon 
 
 `POST`
 
-## `/users/login` Endpoint
-
 ### Request Body
 
 The request body should be in JSON format and include:
